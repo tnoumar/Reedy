@@ -1,1 +1,1 @@
-# Reedy is a text summarizing tool written in Python, to summarize Wikipedia pages
+# Reedy is a text summarization tool written in Python, to summarize Wikipedia pages.
